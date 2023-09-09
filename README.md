@@ -4,7 +4,7 @@ In this project we employ Machine learning methods to tell if an image has been 
 
 In the digital age, images play a pivotal role in various sectors, from journalism to identity verification. However, with the rise of advanced image manipulation tools, the authenticity of these images can be compromised, leading to misinformation and other challenges. This repository focuses on detecting such tampered images using two distinct approaches:
 
-1. **Document Forgery Detection Mini-Project**:
+1. **Document Forgery Detection using SIFT**:
    - A passive image forensics method based on the Scale-Invariant Feature Transform (SIFT) algorithm and homography estimation.
    - Requires a reference image for comparison.
    
